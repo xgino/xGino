@@ -16,6 +16,8 @@
 
     <!-- CSS
     ================================================== -->
+    <link rel="stylesheet" href="{% static 'portfolio/css/typewriter.css' %}">  <!-- Custom -->   
+    <link rel="stylesheet" href="{% static 'portfolio/css/scrollbar.css' %}">  <!-- Custom -->   
     <link rel="stylesheet" href="{% static 'portfolio/css/base.css' %}">  
     <link rel="stylesheet" href="{% static 'portfolio/css/main.css' %}">
     <link rel="stylesheet" href="{% static 'portfolio/css/vendor.css' %}">     
@@ -32,16 +34,7 @@
 </head>
 <body id="top">
 
-    <!-- header -->
-    {% include 'partials/_header.html' %}
-        
-
     {% block content %}  {% endblock %}
-
-    <!-- Footer -->
-    {% include 'partials/_footer.html' %}
-
-
 
     <div id="preloader"> 
         <div id="loader"></div>
@@ -49,10 +42,12 @@
 
     <!-- Java Script
     ================================================== --> 
+    <script src="{% static 'portfolio/current_time.js' %}"></script> <!-- Custom JS -->
     <script src="{% static 'portfolio/js/jquery-2.1.3.min.js' %}"></script>
     <script src="{% static 'portfolio/js/plugins.js' %}"></script>
     <script src="{% static 'portfolio/js/main.js' %}"></script>
-
+    
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script> <!-- Typed text -->
 
 </body>
 </html>
