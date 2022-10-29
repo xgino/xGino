@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
 {% load static %}
-{% block title %} | About {% endblock %}
+{% block title %} xGino {% endblock %}
 {% block content %}
 
 <!-- intro section -->
@@ -10,12 +10,13 @@
         <div class="row">
             <div class="col-twelve">
 
-                <h5>Hello, World.</h5>
-                <h1>I'm Juan Dela Cruz.</h1>
+                <h5>“There is no joy without pain.”</h5>
+                <h1>my name is Gin.</h1>
 
                 <p class="intro-position">
-                    <span>Front-end Developer</span>
-                    <span>UI/UX Designer</span> 
+                    <span>Full-stack Dev</span>
+                    <span>Data Analyst</span> 
+                    <span>AI Engineer <small>(train)</small></span> 
                 </p>
 
                 <a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
@@ -26,11 +27,10 @@
     </div> <!-- /intro-content --> 
 
     <ul class="intro-social">        
-      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-      <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-      <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+        <li><a href="https://nl.linkedin.com/in/gin-li-49369a147/en?trk=people-guest_people_search-card"><i class="fa fa-linkedin"></i></a></li>
+        <li><a href="https://github.com/BuilderGin"><i class="fa fa-github"></i></a></li>
+        <li><a href="mailto:ginggeli@hotmail.com"><i class="fa fa-envelope"></i></a></li>
+        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
    </ul> <!-- /intro-social -->      	
 
 </section> <!-- /intro -->
@@ -47,7 +47,7 @@
 
             <div class="intro-info">
 
-                <img src="images/profile-pic.jpg" alt="Profile Picture">
+                <img src="{% static 'portfolio/images/profile-pic.jpg' %}" alt="Profile Picture">
 
                 <p class="lead">Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id pariatur Duis laboris amet exercitation veniam labore consectetur ea id quis eiusmod.</p>
             </div>   			
@@ -64,24 +64,24 @@
 
             <ul class="info-list">
                 <li>
-                    <strong>Fullname:</strong>
-                    <span>Juan Dela Cruz</span>
+                    <strong>Name:</strong>
+                    <span>Gin Li</span>
                 </li>
                 <li>
                     <strong>Birth Date:</strong>
-                    <span>September 28, 1987</span>
+                    <span>October 25, 1999</span>
                 </li>
                 <li>
                     <strong>Job:</strong>
-                    <span>Freelancer, Frontend Developer</span>
+                    <span>Data Science, Ai Engineer</span>
                 </li>
                 <li>
                     <strong>Website:</strong>
-                    <span>www.kardswebsite.com</span>
+                    <span>www.xgino.com</span>
                 </li>
                 <li>
-                    <strong>Email:</strong>
-                    <span>me@kardswebsite.com</span>
+                    <strong>Location:</strong>
+                    <span>The Netherlands</span>
                 </li>
 
             </ul> <!-- /info-list -->
@@ -95,25 +95,24 @@
 
              <ul class="skill-bars">
                 <li>
-                    <div class="progress percent90"><span>90%</span></div>
-                    <strong>HTML5</strong>
+                    <div class="progress percent40"><span>40%</span></div>
+                    <strong>Machine Learning</strong>
                 </li>
                 <li>
-                    <div class="progress percent85"><span>85%</span></div>
-                    <strong>CSS3</strong>
+                    <div class="progress percent60"><span>60%</span></div>
+                    <strong>Data Visualization</strong>
                 </li>
                 <li>
-                    <div class="progress percent70"><span>70%</span></div>
-                    <strong>JQuery</strong>
+                    <div class="progress percent75"><span>75%</span></div>
+                    <strong>Data Mining</strong>
                 </li>
                 <li>
                     <div class="progress percent95"><span>95%</span></div>
-                    <strong>PHP</strong>
+                    <strong>Python</strong>
                 </li>
                 <li>
-
-                    <div class="progress percent75"><span>75%</span></div>
-                    <strong>Wordpress</strong>
+                    <div class="progress percent85"><span>85%</span></div>
+                    <strong>Problem-Solving</strong>
                 </li>
    
              </ul> <!-- /skill-bars -->		
@@ -124,7 +123,7 @@
 
     <div class="row button-section">
         <div class="col-twelve">
-            <a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
+            <a href="#contact" title="Contact Me" class="button stroke smoothscroll">Contact Me</a>
             <a href="#" title="Download CV" class="button button-primary">Download CV</a>
         </div>   		
     </div>
@@ -160,17 +159,17 @@
             <div class="timeline-block">
 
                 <div class="timeline-ico">
-                    <i class="fa fa-graduation-cap"></i>
+                    <i class="fa fa-briefcase"></i>
                 </div>
 
                 <div class="timeline-header">
-                    <h3>UI Designer</h3>
-                    <p>July 2015 - Present</p>
+                    <h3>Full-Stack Developer</h3>
+                    <p>February 2021 - Present</p>
                 </div>
 
                 <div class="timeline-content">
-                    <h4>Awesome Studio</h4>
-                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+                    <h4>Buildblock</h4>
+                    <p>Check the client's history and present situation before developing a web application to meet the client's needs. This might be a website or an online store with the desired features.</p>
                 </div>
 
             </div> <!-- /timeline-block -->
@@ -178,17 +177,17 @@
             <div class="timeline-block">
 
                 <div class="timeline-ico">
-                    <i class="fa fa-graduation-cap"></i>
+                    <i class="fa fa-briefcase"></i>
                 </div>
 
                 <div class="timeline-header">
-                    <h3>Front-end Developer</h3>
-                    <p>July 2014 - June 2015</p>
+                    <h3>Game Developer</h3>
+                    <p>April 2021 - January 2022</p>
                 </div>
 
                 <div class="timeline-content">
-                    <h4>Super Cool Agency</h4>
-                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+                    <h4>RockIT</h4>
+                    <p>Tkinter-based Windows desktop application with OpenCV. a physically demanding interactive game where players must move. While playing a game, try to encourage people to exercise more. Use a webcam to capture the players and track their movements.</p>
                 </div>
 
             </div> <!-- /timeline-block -->
@@ -196,17 +195,17 @@
             <div class="timeline-block">
 
                 <div class="timeline-ico">
-                    <i class="fa fa-graduation-cap"></i>
+                    <i class="fa fa-briefcase"></i>
                 </div>
 
                 <div class="timeline-header">
-                    <h3>Web Designer</h3>
-                    <p>May 2013 - June 2014</p>
+                    <h3>CMS Developer</h3>
+                    <p>October 2018 - February 2019</p>
                 </div>
 
                 <div class="timeline-content">
-                    <h4>Great Designs Studio</h4>
-                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+                    <h4>Triple P Solutions</h4>
+                    <p>creating a webshop extension using a CMS on their current website. installing the necessary plugins, templates, and security tools, and hosting the application with the hosting provider.</p>
                 </div>
 
             </div> <!-- /timeline-block -->
@@ -232,17 +231,17 @@
             <div class="timeline-block">
 
                 <div class="timeline-ico">
-                    <i class="fa fa-briefcase"></i>
+                    <i class="fa fa-graduation-cap"></i>
                 </div>
 
                 <div class="timeline-header">
-                    <h3>Master Degree</h3>
-                    <p>July 2015 - Present</p>
+                    <h3>Bachelor Degree</h3>
+                    <p>October 2022 - Present</p>
                 </div>
 
                 <div class="timeline-content">
-                    <h4>University of Life</h4>
-                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+                    <h4>Breda University of Applied Sciences</h4>
+                    <p>Data Science & Artificial Intelligence</p>
                 </div>
 
             </div> <!-- /timeline-block -->
@@ -250,35 +249,17 @@
             <div class="timeline-block">
 
                 <div class="timeline-ico">
-                    <i class="fa fa-briefcase"></i>
+                    <i class="fa fa-graduation-cap"></i>
                 </div>
 
                 <div class="timeline-header">
-                    <h3>Bachelor Degree</h3>
-                    <p>July 2014 - June 2015</p>
+                    <h3>Specialist Education</h3>
+                    <p>September 2019 - June 2022</p>
                 </div>
 
                 <div class="timeline-content">
-                    <h4>State Design University</h4>
-                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
-                </div>
-
-            </div> <!-- /timeline-block -->
-
-            <div class="timeline-block">
-
-                <div class="timeline-ico">
-                    <i class="fa fa-briefcase"></i>
-                </div>
-
-                <div class="timeline-header">
-                    <h3>Bachelor Degree</h3>
-                    <p>May 2013 - June 2014</p>
-                </div>
-
-                <div class="timeline-content">
-                    <h4>Design College</h4>
-                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+                    <h4>ROC van Amsterdam (Hilversum)</h4>
+                    <p>Software Developer -> Web Development, App Development, Desktop Development, Game Development </p>
                 </div>
 
             </div> <!-- /timeline-block -->
@@ -314,15 +295,13 @@
 
             <div class="bgrid folio-item">
             <div class="item-wrap">
-                <img src="images/portfolio/liberty.jpg" alt="Liberty">
+                <img src="{% static 'portfolio/images/portfolio/crawler.jpg' %}" alt="Liberty">
                 <a href="#modal-01" class="overlay">	                  	           
                     <div class="folio-item-table">
                         <div class="folio-item-cell">
-                                    <h3 class="folio-title">Liberty</h3>	     					    
-                                    <span class="folio-types">
-                                        Graphic Design
-                                    </span>
-                                </div>	                      	
+                            <h3 class="folio-title">BOL.COM</h3>	     					    
+                            <span class="folio-types">Web Scraper</span>
+                        </div>	                      	
                     </div>                    
                 </a>
             </div>	               
@@ -330,15 +309,13 @@
 
                 <div class="bgrid folio-item">
             <div class="item-wrap">
-                <img src="images/portfolio/shutterbug.jpg" alt="Shutterbug">
+                <img src="{% static 'portfolio/images/portfolio/rolstoelhockey.jpg' %}" alt="Shutterbug">
                 <a href="#modal-02" class="overlay">              		                  
                     <div class="folio-item-table">
                         <div class="folio-item-cell">
-                            <h3 class="folio-title">Shutterbug</h3>	     					    
-                                    <span class="folio-types">
-                                        Web Design
-                                </span>		     		
-                                </div> 	                      	
+                            <h3 class="folio-title">Bredius Rollers</h3>	     					    
+                            <span class="folio-types">Web Development</span>
+                        </div> 	                      	
                     </div>                    
                 </a>
             </div>
@@ -346,7 +323,7 @@
 
             <div class="bgrid folio-item">
             <div class="item-wrap">
-                <img src="images/portfolio/clouds.jpg"alt="Clouds">
+                <img src="{% static 'portfolio/images/portfolio/clouds.jpg' %}"alt="Clouds">
                 <a href="#modal-03" class="overlay">             		                  
                     <div class="folio-item-table">
                         <div class="folio-item-cell">
@@ -362,7 +339,7 @@
 
             <div class="bgrid folio-item">
             <div class="item-wrap">
-                <img src="images/portfolio/beetle.jpg" alt="Beetle">
+                <img src="{% static 'portfolio/images/portfolio/beetle.jpg' %}" alt="Beetle">
                 <a href="#modal-04" class="overlay">                  	                 
                     <div class="folio-item-table">
                         <div class="folio-item-cell">
@@ -378,7 +355,7 @@
 
                 <div class="bgrid folio-item">
             <div class="item-wrap">
-                <img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
+                <img src="{% static 'portfolio/images/portfolio/lighthouse.jpg' %}" alt="Lighthouse">
                 <a href="#modal-05" class="overlay">             		                  
                     <div class="folio-item-table">
                         <div class="folio-item-cell">
@@ -394,7 +371,7 @@
 
             <div class="bgrid folio-item">
             <div class="item-wrap">
-                <img src="images/portfolio/salad.jpg" alt="Salad">
+                <img src="{% static 'portfolio/images/portfolio/salad.jpg' %}" alt="Salad">
                 <a href="#modal-06" class="overlay">
                     <div class="folio-item-table">
                         <div class="folio-item-cell">
@@ -413,7 +390,7 @@
             <div id="modal-01" class="popup-modal slider mfp-hide">	
 
                     <div class="media">
-                        <img src="images/portfolio/modals/m-liberty.jpg" alt="" />
+                        <img src="{% static 'portfolio/images/portfolio/modals/m-liberty.jpg' %}" alt="" />
                     </div>      	
 
                 <div class="description-box">
@@ -433,7 +410,7 @@
             <div id="modal-02" class="popup-modal slider mfp-hide">	
 
                     <div class="media">
-                        <img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
+                        <img src="{% static 'portfolio/images/portfolio/modals/m-shutterbug.jpg' %}" alt="" />
                     </div>      	
 
                 <div class="description-box">
@@ -453,7 +430,7 @@
             <div id="modal-03" class="popup-modal slider mfp-hide">	
 
                     <div class="media">
-                        <img src="images/portfolio/modals/m-clouds.jpg" alt="" />
+                        <img src="{% static 'portfolio/images/portfolio/modals/m-clouds.jpg' %}" alt="" />
                     </div>      	
 
                 <div class="description-box">
@@ -473,7 +450,7 @@
             <div id="modal-04" class="popup-modal slider mfp-hide">	
 
                     <div class="media">
-                        <img src="images/portfolio/modals/m-beetle.jpg" alt="" />
+                        <img src="{% static 'portfolio/images/portfolio/modals/m-beetle.jpg' %}" alt="" />
                     </div>      	
 
                 <div class="description-box">
@@ -493,7 +470,7 @@
             <div id="modal-05" class="popup-modal slider mfp-hide">	
 
                     <div class="media">
-                        <img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
+                        <img src="{% static 'portfolio/images/portfolio/modals/m-lighthouse.jpg' %}" alt="" />
                     </div>      	
 
                 <div class="description-box">
@@ -513,7 +490,7 @@
             <div id="modal-06" class="popup-modal slider mfp-hide">	
 
                     <div class="media">
-                        <img src="images/portfolio/modals/m-salad.jpg" alt="" />
+                        <img src="{% static 'portfolio/images/portfolio/modals/m-salad.jpg' %}" alt="" />
                     </div>      	
 
                 <div class="description-box">

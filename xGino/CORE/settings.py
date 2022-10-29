@@ -90,7 +90,7 @@ THOUSAND_SEPARATOR = ' '
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'xGino/static')
+    os.path.join(BASE_DIR, 'CORE/static')
 ]
 
 # Media folder settings
