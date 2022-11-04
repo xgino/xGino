@@ -109,16 +109,16 @@ if DEBUG is False:
     SECURE_SSL_REDIRECT = True
     SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
-    ALLOWED_HOSTS = ['www.domain.com']
+    ALLOWED_HOSTS = ['www.xgino.com']
     EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'javakitchendb',
-            'USER': 'babycode',
-            'PASSWORD': 'Build24!7HD',
-            'HOST': 'localhost',
-            'PORT': '',
-        }
-    }
+    # DATABASES = {
+    #     'default': {
+    #         'ENGINE': 'django.db.backends.mysql',
+    #         'NAME': 'xginugqv_xgino',
+    #         'USER': 'xginugqv_xgino',
+    #         'PASSWORD': 'Utrecht4321',
+    #         'HOST': 'localhost',
+    #         'PORT': '3306',
+    #     }
+    # }
