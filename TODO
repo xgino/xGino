@@ -1,37 +1,42 @@
 
+# SITE Includes:
+
+- [ ] Data science view Style Format -> ?
+- [ ] Add Pictures of ME, Social Links
+- [ ] Moving Grapsh, Moving JS ect.
+- [ ] Use:  Webscraping
+            API
+            Data Questions
+            BIG Datasets
+            Data Cleaning
 
 
-## MY TODO:
+- [ ] Explain:  DS & AI words (hidden) 
+                why analysist is done, why result are
+                Lifecycle bullshit
 
-Create Portfolo 1pager
-    - [ ] Header
-    - [ ] Footer
-    - [ ] Content
-    - [ ] Colors
-    - [ ] Data
+- [ ] Pages:    About Me            ->  Info about me
+                Experience          ->  Interns
+                Techinical Skills   ->  Django, Js, some
+                Education           ->  School, Courses, ect
+                Projects            ->  Projects Github seperated
+                Resume->download    ->  IDK??
 
-
-
-## COOL IDEAS:
-Collored Scrollbar
-Text Typing animation
-Social Icons
-Nice Pink Color = #e75e8d
-
-## RESOURCES:
-Link of many templates = https://javascript.plainenglish.io/40-portfolio-templates-free-for-web-design-d0611a372763
-Link of template = https://technext.github.io/kards/
+- [ ] Machine Learning Project Contain:
+    - [ ] Classification Project
+    - [ ] Clustering Project
+    - [ ] Regression Project
+    - [ ] Dementionality reduction project
 
 
-## TODO
-- [X] Fix Typing anmation
-- [ ] Add Moving particals background
-- [ ] Add Color scrollbar
+# Project Ideas:
+- [ ] Route Optimizer: -> Google API + Delivery optimizer
+- [ ] Major Event Analyser -> Graph + Couse + Result
+- [ ] ...??? Forcast Prediction Realtime Data
 
-### ADD
-- [ ] Twitter scraper Crypto News scraper
-- [ ] Product winst / cost ect tracker
-- [ ] Bol Enemy tracker
-- [ ] 
-- [ ] 
-- [ ] 
+
+# Maybe:
+- [ ] add Bol Product scraper
+
+
+
