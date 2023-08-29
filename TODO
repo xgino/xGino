@@ -33,11 +33,21 @@
 
 
 # Project Ideas:
-- [ ] Route Optimizer: -> Google API + Delivery optimizer
+
+## Portfolio Material:
 - [ ] Major Event Analyser -> Graph + Couse + Result
-- [ ] ...??? Forcast Prediction Realtime Data
+- [ ] pand price graph, + forcast prediction. Button refresh data.
+- [ ] Real time data forcast BTC, ETH
 
-
+## Business Material:
+- [ ] Route Optimizer: -> Google API + Delivery optimizer
+- [ ] Help local small/medium businesses grow revenue. Trafic, marketing, ect
+- [ ] Chinese Toko Start:
+    - [ ] Find Location: | Where is the best location?: Big space, parking, high traffic, low rent
+        - [ ] Map with all Chinese Restaurants / cafetaria's., chinese stores
+        - [ ] Add custumers radius, shipping radius. Determen the revenue, based on inwoners
+        - [ ] Add Radius willing to travel to us? 
+        
 # Maybe:
 - [ ] add Bol Product scraper
 
