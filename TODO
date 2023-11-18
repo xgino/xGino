@@ -1,37 +1,33 @@
 
 
+## Tech to use:
+- [ ] Django
+- [ ] Tensorflow
+- [ ] Plotly graphs
+- [ ] Pytorch
+- [ ] Machine Learning, auto script run
+- [ ] Webscraping
+
+
+## Wat we want?:
+- [ ] Api calls
+- [ ] Webscraping
+- [ ] Machine Learning
+        Find ML categories and split into project in that category
+    - [ ] Predictive ML
+    - [ ] RL thing?
+    - [ ] CNN RNN
+
+
+## What on site:
+- [ ] Current working on. title, shrt desk, link to git.
+- [ ] Live applications
+- [ ] My roles? webdev, appdev, Ml eng. ds, Ai emg. bis man, ect
+- [ ] Maybe my working hours? wen I work on what?
+
+
 
 ## MY TODO:
-
-Create Portfolo 1pager
-    - [ ] Header
-    - [ ] Footer
-    - [ ] Content
-    - [ ] Colors
-    - [ ] Data
-
-
-
-## COOL IDEAS:
-Collored Scrollbar
-Text Typing animation
-Social Icons
-Nice Pink Color = #e75e8d
-
-## RESOURCES:
-Link of many templates = https://javascript.plainenglish.io/40-portfolio-templates-free-for-web-design-d0611a372763
-Link of template = https://technext.github.io/kards/
-
-
-## TODO
-- [X] Fix Typing anmation
-- [ ] Add Moving particals background
-- [ ] Add Color scrollbar
-
-### ADD
-- [ ] Twitter scraper Crypto News scraper
-- [ ] Product winst / cost ect tracker
-- [ ] Bol Enemy tracker
-- [ ] 
-- [ ] 
+- [ ] Find template to steal
+- [ ] Thing about ML categories and categories like web, mobile, ect.
 - [ ] 
