@@ -12,6 +12,7 @@
 ## Wat we want?:
 - [ ] Api calls
 - [ ] Webscraping
+- [ ] Trafic, visitor tracing in Admin
 - [ ] Machine Learning
         Find ML categories and split into project in that category
     - [ ] Predictive ML
