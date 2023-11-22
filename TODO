@@ -31,4 +31,15 @@
 ## MY TODO:
 - [ ] Find template to steal
 - [ ] Thing about ML categories and categories like web, mobile, ect.
+        * Supervised Learning
+        * Unsupervised Learning
+        * Semi-Supervised Learning
+        * Reinforcement Learning
+        * Deep Learning
+        * Transfer Learning
+        * Ensemble Learning
+        * Generative Adversarial Networks (GANs)
+        * Natural Language Processing (NLP)
+
+
 - [ ] How to host ML?
