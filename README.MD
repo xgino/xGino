@@ -21,8 +21,22 @@
 <!-- <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"> -->
 
 <a href="https://www.discordapp.com/users/428446446153367554">
-    <img src="https://img.shields.io/badge/-xgino-blue?style=flat-square&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white">
 </a>
+
+
+
+
+
+
+
+
+<img src="https://img.shields.io/badge/Tensorflow-red?style=flat-square&logo=tensorflow">
+
+
+
+
+
 
 </p>
 
