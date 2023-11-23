@@ -24,13 +24,16 @@
     <img src="https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white">
 </a>
 
+</br>
+<img src="https://komarev.com/ghpvc/?username=xgino&color=blueviolet">
+
 </p>
 
 
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=xgino&color=blueviolet">
+
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
