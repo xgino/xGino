@@ -8,8 +8,9 @@
 
 </br>
 
-<img src="https://img.shields.io/badge/Website-xgino.com-red?style=flat-square">
-
+<a href="https://www.xgino.com">
+    <img src="https://img.shields.io/badge/Website-xgino.com-red?style=flat-square">
+</a>
 
 <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 
