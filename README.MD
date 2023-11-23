@@ -20,11 +20,11 @@ I love exploring the fascinating world of data and uncovering meaningful insight
 - 💬 If you have any Questions/Feedback or to be Friends, please feel free to reach out to me!
 
 <a href="https://www.linkedin.com/in/gin-li-49369a147">
- <img align="left" src="https://github.com/xgino/xgino/blob/main/images/linkedin.png" alt="Gin Li | LinkedIn" width="21px"/> 
+ <img align="left" src="https://github.com/xgino/xgino/blob/xgino_v2/images/linkedin.png" alt="Gin Li | LinkedIn" width="21px"/> 
 </a>
 
 <a href="https://www.discordapp.com/users/428446446153367554">
- <img align="left" src="https://github.com/xgino/xgino/blob/main/images/discord.png" alt="Gin#8126 | Discord" width="21px"/> 
+ <img align="left" src="https://github.com/xgino/xgino/blob/xgino_v2/images/discord.png" alt="Gin#8126 | Discord" width="21px"/> 
 </a>
 </br>
 
