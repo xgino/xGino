@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 
-
+<img src="https://img.shields.io/badge/-xgino-red?style=flat-square&logo=discord&logoColor=white">
 
 
 </p>
