@@ -16,9 +16,7 @@
 I love exploring the fascinating world of data and uncovering meaningful insights. Feel free to connect with me and explore the possibilities together!
 </br>
 
-### Connect with me:
-- 💬 If you have any Questions/Feedback or to be Friends, please feel free to reach out to me!
-
+### Got questions or just want to connect? Reach out to me at...
 <a href="https://www.linkedin.com/in/gin-li-49369a147">
  <img align="left" src="https://github.com/xgino/xgino/blob/xgino_v2/images/linkedin.png" alt="Gin Li | LinkedIn" width="21px"/> 
 </a>
@@ -29,8 +27,9 @@ I love exploring the fascinating world of data and uncovering meaningful insight
 </br>
 
 ## 🌱 I'm currently learning
-- Exploring advanced machine learning techniques and applying them to real-world problems.
-- 
+- Participating in Kaggle competitions involving machine learning projects allows me to grasp the requirements of real-world problems and apply my current knowledge to address them effectively.
+- Rofix Goalie robot project involves moving on the x & y axis to block shots with predictive capabilities based on ball movement. The project utilizes Raspberry Pi 4, a microstep driver, stepper motors, and an aluminum frame.
+- Developing mobile applications and deploying them on both the Apple Store and Play Store is my goal. I'm learning Flutter to create these apps and aim to integrate user recommendation machine learning models to enhance their functionality.
 
 ## 📈 GitHub Stats 
 ![xgino's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgino&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgino&layout=donut)](https://github.com/xgino/github-readme-stats)
