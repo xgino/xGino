@@ -1,3 +1,37 @@
+
+<p align="center">
+
+
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+</a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
+</p>
+
+
+
+
+
+
+
+
+===========================================
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="center">Hi there, I'm <a href="https://www.xgino.com/" target="_blank" rel="noreferrer">Gin</a> 👋</h3>
 <h2 align="center">I'm a Full-Stack Data Scientist, love Robotics & AI 🤖</h2> 
 
