@@ -28,11 +28,11 @@
 </p>
 
 
-* 📖 Participating in Kaggle competitions involving machine learning projects allows me to grasp the requirements of real-world problems and apply my current knowledge to address them effectively [kaggle projects](https://www.kaggle.com/search?q=deeplearning). 
+* 📖 Kaggle competitions deepen my understanding of real-world challenges, applying my machine learning expertise effectively [kaggle projects](https://www.kaggle.com/search?q=deeplearning). 
 
-* 🎓 Rofix Goalie robot project involves moving on the x & y axis to block shots with predictive capabilities based on ball movement. The project utilizes Raspberry Pi 4, a microstep driver, stepper motors, and an aluminum frame [robotics project](https://github.com/xgino/Rofix). 
+* 🎓 The Rofix Goalie robot moves on the x & y axis, predicting and blocking shots using ball movement data. It runs on Raspberry Pi 4, a microstep driver, stepper motors, and an aluminum frame [robotics project](https://github.com/xgino/Rofix). 
 
-* 💻 Developing mobile applications and deploying them on both the Apple Store and Play Store is my goal. I'm learning Flutter to create these apps and aim to integrate user recommendation machine learning models to enhance their functionality.
+* 💻 My aim: Develop mobile apps for Apple Store and Play Store. Learning Flutter to integrate user recommendation ML models for enhanced app functionality.
 
 
 
