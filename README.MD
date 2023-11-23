@@ -24,8 +24,11 @@
     <img src="https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white">
 </a>
 
-
 </p>
+
+
+
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=xgino&color=blueviolet">
 
@@ -38,6 +41,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
+</p>
 
 
 
