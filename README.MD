@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Ging+Ge+Li;Data+Scientist%7CAi+Engineer;AI+%7C+Robotics+%7C+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Ging+Ge+Li;Data+Scientist+%7C+Ai+Engineer;AI+%7C+Robotics+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 
 
