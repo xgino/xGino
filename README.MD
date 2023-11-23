@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 
-<img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=outlook&logoColor=white">
+<img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=out-look&logoColor=white">
 
 
 
