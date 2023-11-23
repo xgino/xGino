@@ -27,7 +27,7 @@ I love exploring the fascinating world of data and uncovering meaningful insight
 </br>
 
 ## 🌱 I'm currently learning
-- **Kaggle** Participating in Kaggle competitions involving machine learning projects allows me to grasp the requirements of real-world problems and apply my current knowledge to address them effectively.
+- [**Kaggle**](https://www.kaggle.com/) Participating in Kaggle competitions involving machine learning projects allows me to grasp the requirements of real-world problems and apply my current knowledge to address them effectively.
 - **Robotics** Rofix Goalie robot project involves moving on the x & y axis to block shots with predictive capabilities based on ball movement. The project utilizes Raspberry Pi 4, a microstep driver, stepper motors, and an aluminum frame.
 - **Mobile Development** Developing mobile applications and deploying them on both the Apple Store and Play Store is my goal. I'm learning Flutter to create these apps and aim to integrate user recommendation machine learning models to enhance their functionality.
 
