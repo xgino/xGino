@@ -13,13 +13,15 @@
 
 <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 
+<a href="https://www.linkedin.com/in/gin-li-49369a147">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
 
-<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+<!-- <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"> -->
 
-<img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-
-<img src="https://img.shields.io/badge/-xgino-blue?style=flat-square&logo=discord&logoColor=white">
-
+<a href="https://www.discordapp.com/users/428446446153367554">
+    <img src="https://img.shields.io/badge/-xgino-blue?style=flat-square&logo=discord&logoColor=white">
+</a>
 
 </p>
 
