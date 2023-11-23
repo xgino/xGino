@@ -27,7 +27,7 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=xgino&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=xgino&color=blueviolet">
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
