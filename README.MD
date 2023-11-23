@@ -2,11 +2,21 @@
 <p align="center">
 
 
-<a href="https://github.com/drkostas">
+<a href="https://github.com/xgino">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Ging+Ge+Li;Data+Science+%26+Ai+%7C+BASc+Student+%7C+Full-stack+Developer;AI+%7C+Robotics+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 
-asds
+</br>
+
+<img src="https://img.shields.io/badge/Website-xgino.com-red?style=flat-square">
+
+
+<img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+
+
+<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+
+<img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 
 </p>
 
