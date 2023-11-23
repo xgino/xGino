@@ -28,6 +28,7 @@
 </p>
 
 
+## 🌱 I'm currently learning
 * 📖 Kaggle competitions deepen my understanding of real-world challenges, applying my machine learning expertise effectively.
 
 * 🎓 The Rofix Goalie robot moves on the x & y axis, predicting and blocking shots using ball movement data. It runs on Raspberry Pi 4, a microstep driver, stepper motors, and an aluminum frame. [Robotics project](https://github.com/xgino/Rofix)
