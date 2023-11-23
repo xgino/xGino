@@ -25,22 +25,14 @@
 </a>
 
 
-
-
-
-
-
-
-<img src="https://img.shields.io/badge/Tensorflow-red?style=flat-square&logo=tensorflow">
-
-
-
-
-
-
 </p>
 
 
+* 📖 Participating in Kaggle competitions involving machine learning projects allows me to grasp the requirements of real-world problems and apply my current knowledge to address them effectively [kaggle projects](https://www.kaggle.com/search?q=deeplearning). 
+
+* 🎓 Rofix Goalie robot project involves moving on the x & y axis to block shots with predictive capabilities based on ball movement. The project utilizes Raspberry Pi 4, a microstep driver, stepper motors, and an aluminum frame [robotics project](https://github.com/xgino/Rofix). 
+
+* 💻 Developing mobile applications and deploying them on both the Apple Store and Play Store is my goal. I'm learning Flutter to create these apps and aim to integrate user recommendation machine learning models to enhance their functionality.
 
 
 
