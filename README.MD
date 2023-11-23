@@ -8,6 +8,10 @@
 
 </br>
 
+<a href="https://github.com/xgino">
+<img src="https://komarev.com/ghpvc/?username=xgino&color=blueviolet">
+</a>
+
 <a href="https://www.xgino.com">
     <img src="https://img.shields.io/badge/Website-xgino.com-red?style=flat-square">
 </a>
@@ -24,14 +28,8 @@
     <img src="https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white">
 </a>
 
-</br>
-<img src="https://komarev.com/ghpvc/?username=xgino&color=blueviolet">
 
 </p>
-
-
-
-<p align="center">
 
 
 
@@ -43,9 +41,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-
-</p>
-
 
 
 
