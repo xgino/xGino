@@ -30,7 +30,7 @@
 
 </p>
 
-## 🌱 Have worked with
+## Have worked with
 
 <p align="center">
 
