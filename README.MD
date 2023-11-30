@@ -61,7 +61,7 @@
 * 💻 My aim: Develop mobile apps for Apple Store and Play Store. Learning Flutter to integrate user recommendation ML models for enhanced app functionality.
 
 
-## My project plans / todo
+## My currently project
 - [ ] Developing a deep learning model for plant analysis, identifying growth patterns and optimal conditions
 - [ ] Rofix project: Wiring adjustments for Raspberry Pi, microstepper driver, and stepper motor to enable basic spinning motor functionality.
 - [ ] Accounting mobile app
