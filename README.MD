@@ -72,6 +72,7 @@
 
 
 ## Future projects
+- [ ] Portfolio website
 - [ ] Constructing a user recommendation system using ML models and planning to implement DL models in the future
 - [ ] Deep learning mobile app
     User-centric, practical deep learning applications utilizing webcam technology.
