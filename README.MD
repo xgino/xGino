@@ -60,6 +60,8 @@
 
 * 💻 My aim: Develop mobile apps for Apple Store and Play Store. Learning Flutter to integrate user recommendation ML models for enhanced app functionality.
 
+## My todo
+- [ ] oe
 
 
 ## 📈 GitHub Stats 
