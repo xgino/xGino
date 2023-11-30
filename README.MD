@@ -60,8 +60,23 @@
 
 * 💻 My aim: Develop mobile apps for Apple Store and Play Store. Learning Flutter to integrate user recommendation ML models for enhanced app functionality.
 
-## My todo
-- [ ] oe
+
+## My project plans / todo
+- [ ] Developing a deep learning model for plant analysis, identifying growth patterns and optimal conditions
+- [ ] Rofix project: Wiring adjustments for Raspberry Pi, microstepper driver, and stepper motor to enable basic spinning motor functionality.
+- [ ] Accounting mobile app
+    Flutter learning through an Accounting app: Scan and store receipts while providing a comprehensive expense overview on the dashboard.
+    - [ ] Flutter + Firebase + deployment?
+- [ ] Bredius Rollers website fix bugs
+
+
+
+## Future projects
+- [ ] Constructing a user recommendation system using ML models and planning to implement DL models in the future
+- [ ] Deep learning mobile app
+    User-centric, practical deep learning applications utilizing webcam technology.
+    - [ ] Flutter + DL + Database support ML + deployment?
+
 
 
 ## 📈 GitHub Stats 
