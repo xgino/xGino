@@ -74,7 +74,7 @@
     - [ ] Creating a portfolio website showcasing my expertise by incorporating all known techniques and skills
 
 * Flutter projects:
-    - [ ] Time management app
+    - [ ] Time management, web + app: Project, business, finance, todo, timetracker, agenda, graphs of all. 
     - [ ] DL user matching recommendation app
 
 
