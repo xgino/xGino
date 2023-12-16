@@ -63,10 +63,8 @@
 
 ## My currently project
 - [ ] Developing a deep learning model for plant analysis, identifying growth patterns and optimal conditions
-- [ ] Rofix project: Wiring adjustments for Raspberry Pi, microstepper driver, and stepper motor to enable basic spinning motor functionality.
-- [ ] Accounting mobile app
-    Flutter learning through an Accounting app: Scan and store receipts while providing a comprehensive expense overview on the dashboard.
-    - [ ] Flutter + Firebase + deployment?
+- [ ] Rofix project: Wiring adjustments for Raspberry Pi, microstepper driver, and stepper motor to enable basic spinning motor functionality
+- [ ] Flutter mastery entails AI integration, database utilization, and adept deployment for powerful app development
 - [ ] Bredius Rollers website fix bugs
 
 
