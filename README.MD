@@ -64,18 +64,21 @@
 ## My currently project
 - [ ] Developing a deep learning model for plant analysis, identifying growth patterns and optimal conditions
 - [ ] Rofix project: Wiring adjustments for Raspberry Pi, microstepper driver, and stepper motor to enable basic spinning motor functionality
-- [ ] Flutter mastery entails AI integration, database utilization, and adept deployment for powerful app development
+- [ ] Master Flutter by building and deploying a time management app.
 - [ ] Bredius Rollers website fix bugs
 
 
 
 ## Future projects
-- [ ] Creating a portfolio website showcasing my expertise by incorporating all known techniques and skills
-- [ ] Constructing a user recommendation system using ML models and planning to implement DL models in the future
-- [ ] Developing a web-based Randstad clone with an advanced management system, primed for seamless future mobile integration.
-- [ ] Deep learning mobile app
-    User-centric, practical deep learning applications utilizing webcam technology.
-    - [ ] Flutter + DL + Database support ML + deployment?
+- [ ] Portfolio - Creating a portfolio website showcasing my expertise by incorporating all known techniques and skills
+    - [ ] Product calculator, management, ect.
+- [ ] Flutter projects:
+    - [ ] Time management app
+    - [ ] DL user matching recommendation app
+- [ ] Webdev: projects:
+    - [ ] B2B also B2C site, back to back usage, - Car rental / jobstad.
+- [ ] AI / ML projects:
+    - [ ] H&M Kaggle competitiion on User behavior and potentialy future purchase with user recommendation
 
 
 
