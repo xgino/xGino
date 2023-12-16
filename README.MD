@@ -72,6 +72,7 @@
 ## Future projects
 - [ ] Creating a portfolio website showcasing my expertise by incorporating all known techniques and skills
 - [ ] Constructing a user recommendation system using ML models and planning to implement DL models in the future
+- [ ] Developing a web-based Randstad clone with an advanced management system, primed for seamless future mobile integration.
 - [ ] Deep learning mobile app
     User-centric, practical deep learning applications utilizing webcam technology.
     - [ ] Flutter + DL + Database support ML + deployment?
