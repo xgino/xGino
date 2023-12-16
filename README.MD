@@ -79,6 +79,7 @@
 
 
 * Webdev: projects:
+    - [ ] Goldelux / LuxeRaise website
     - [ ] B2B also B2C site, back to back usage, - Car rental / jobstad.
 
 * AI / ML projects:
