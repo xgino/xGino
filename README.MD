@@ -71,17 +71,25 @@
 
 ## Future projects
 `Portfolio site:`
+
     - [ ] Creating a portfolio website showcasing my expertise by incorporating all known techniques and skills
 
+
 `Flutter projects:`
+
     - [ ] Time management app
     - [ ] DL user matching recommendation app
 
+
 `Webdev: projects:`
+
     - [ ] B2B also B2C site, back to back usage, - Car rental / jobstad.
 
+
 `AI / ML projects:`
+
     - [ ] H&M Kaggle competitiion: User product recomendation on potential future purchase.
+
 
 
 
