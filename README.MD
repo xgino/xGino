@@ -53,13 +53,12 @@
 
 </p>
 
-## 🌱 I'm currently learning
-* 📖 Kaggle competitions deepen my understanding of real-world challenges, applying my machine learning expertise effectively.
-
-* 🎓 The Rofix Goalie robot moves on the x & y axis, predicting and blocking shots using ball movement data. It runs on Raspberry Pi 4, a microstep driver, stepper motors, and an aluminum frame. [Robotics project](https://github.com/xgino/Rofix)
-
-* 💻 My aim: Develop mobile apps for Apple Store and Play Store. Learning Flutter to integrate user recommendation ML models for enhanced app functionality.
-
+## 🌱 Currently Learning
+* 📖 Kaggle: Recommendation model building.
+  
+* 🎓 Rofix Goalie robot: Raspberry Pi 4, stepper motors. [Robotics project](https://github.com/xgino/Rofix)
+  
+* 💻 Goal: Flutter app deployment with ML features: image text detection, text-to-speech. [Flutter project](https://github.com/xgino/image_to_speech_flutter)
 
 ## My currently project
 - [ ] Developing a deep learning model for plant analysis, identifying growth patterns and optimal conditions
