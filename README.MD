@@ -73,13 +73,12 @@
     - [ ] Creating a portfolio website showcasing my expertise by incorporating all known techniques and skills
 
 * Flutter projects:
-    - [ ] Time management, web + app: Project, business, finance, todo, timetracker, agenda, graphs of all. 
     - [ ] DL user matching recommendation app
-
+    - [ ] ML Job posting hireing app
 
 * Webdev: projects:
-    - [ ] Goldelux / LuxeRaise website
-    - [ ] B2B also B2C site, back to back usage, - Car rental / jobstad.
+    - [X] B2B Data agency, selling scrapped data | [Bolar](https://www.bolar.co)
+    - [ ] Dexan applications: Goldelux, LuxeRaise, Bikestore, Dexan Ecommerce site build
 
 * AI / ML projects:
     - [ ] H&M Kaggle competitiion: User product recomendation on potential future purchase.
