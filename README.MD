@@ -63,7 +63,8 @@
 ## My currently project
 - [ ] Developing a deep learning model for plant analysis, identifying growth patterns and optimal conditions
 - [ ] Rofix project: Wiring adjustments for Raspberry Pi, microstepper driver, and stepper motor to enable basic spinning motor functionality
-- [ ] Master Flutter by building and deploying a time management app.
+- [ ] Build a publicly accessible scraper as a API on Apify
+- [ ] Build Flutter IOS / Android ML Image to speech app and push to live production
 - [ ] Bredius Rollers website fix bugs
 
 
