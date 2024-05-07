@@ -81,6 +81,7 @@
     - [X] B2B Data agency, selling scrapped data | [Bolar](https://www.bolar.co)
     - [ ] Dexan applications: Goldelux, LuxeRaise, Bikestore, Dexan Ecommerce site build
     - [ ] QR code Generator with Django site, apply Stripe or Paypal for B2B
+    - [ ] WebAgency, using Django prebuild sites with admin CMS functionalities for sale
 
 * AI / ML projects:
     - [ ] H&M Kaggle competitiion: User product recomendation on potential future purchase.
