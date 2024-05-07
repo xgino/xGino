@@ -71,7 +71,7 @@
 
 ## Future projects
 * Portfolio site:
-    - [ ] Creating a portfolio website showcasing my expertise by incorporating all known techniques and skills
+    - [ ] Creating a portfolio website showcasing my expertise by incorporating all known techniques and skills | [SSL Certificate missing]
 
 * Flutter projects:
     - [ ] DL user matching recommendation app
@@ -80,6 +80,7 @@
 * Webdev: projects:
     - [X] B2B Data agency, selling scrapped data | [Bolar](https://www.bolar.co)
     - [ ] Dexan applications: Goldelux, LuxeRaise, Bikestore, Dexan Ecommerce site build
+    - [ ] QR code Generator with Django site, apply Stripe or Paypal for B2B
 
 * AI / ML projects:
     - [ ] H&M Kaggle competitiion: User product recomendation on potential future purchase.
