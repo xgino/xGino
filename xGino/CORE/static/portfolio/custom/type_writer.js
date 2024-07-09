@@ -1,12 +1,9 @@
 document.addEventListener('DOMContentLoaded',function(event){
     // array with texts to type in typewriter
     var dataText = [ 
-      "“I’ll leave tomorrow’s problems to tomorrow’s me.”", 
-      "“The only impossible journey is the one you never begin.”", 
-      "“The way to get started is to quit talking and begin doing.”", 
-      "“There is no joy without pain.”", 
-      "“Dream big and dare to fail.”", 
-      "“Preparation is the key to success.”", 
+      "“Tomorrow’s me will figure it out.”", 
+      "“No pain, no coffee, no joy.”", 
+      "“Dream big, fail big, blame the coffee machine.”", 
     ];
     
     // type one text in the typwriter
