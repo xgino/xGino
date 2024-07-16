@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 
-<a href="https://www.linkedin.com/in/gin-li-49369a147">
+<a href="https://www.linkedin.com/in/xgino/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 
