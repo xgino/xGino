@@ -64,29 +64,20 @@
 - [ ] Developing a deep learning model for plant analysis, identifying growth patterns and optimal conditions
 - [ ] Rofix project: Wiring adjustments for Raspberry Pi, microstepper driver, and stepper motor to enable basic spinning motor functionality
 - [ ] Build a publicly accessible scraper as a API on Apify
-- [ ] Build Flutter IOS / Android ML Image to speech app and push to live production
-- [ ] Bredius Rollers website fix bugs
+- [ ] Update Bredius Rollers website admin panel display
 
 
 
 ## Future projects
 * Portfolio site:
-    - [ ] Creating a portfolio website showcasing my expertise by incorporating all known techniques and skills | [SSL Certificate missing]
-
-* Flutter projects:
-    - [ ] DL user matching recommendation app
-    - [ ] ML Job posting hireing app
+    - [ ] Update portfolio website apply all known techniques and skills | [SSL Certificate missing]
 
 * Webdev: projects:
     - [X] B2B Data agency, selling scrapped data | [Bolar](https://www.bolar.co)
-    - [ ] Dexan applications: Goldelux, LuxeRaise, Bikestore, Dexan Ecommerce site build
     - [ ] QR code Generator with Django site, apply Stripe or Paypal for B2B
-    - [ ] WebAgency, using Django prebuild sites with admin CMS functionalities for sale
 
 * AI / ML projects:
     - [ ] H&M Kaggle competitiion: User product recomendation on potential future purchase.
-
-
 
 
 ## 📈 GitHub Stats 
