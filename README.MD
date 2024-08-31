@@ -64,8 +64,6 @@
 - [ ] Developing a deep learning model for plant analysis, identifying growth patterns and optimal conditions
 - [ ] Rofix project: Wiring adjustments for Raspberry Pi, microstepper driver, and stepper motor to enable basic spinning motor functionality
 - [ ] Build a publicly accessible scraper as a API on Apify
-- [ ] Update Bredius Rollers website admin panel display
-
 
 
 ## Future projects
@@ -73,8 +71,7 @@
     - [ ] Update portfolio website apply all known techniques and skills | [SSL Certificate missing]
 
 * Webdev: projects:
-    - [X] B2B Data agency, selling scrapped data | [Bolar](https://www.bolar.co)
-    - [ ] QR code Generator with Django site, apply Stripe or Paypal for B2B
+    - [ ] QR code Generator with Django site, apply Stripe for B2B
 
 * AI / ML projects:
     - [ ] H&M Kaggle competitiion: User product recomendation on potential future purchase.
