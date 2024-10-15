@@ -63,7 +63,6 @@
 ## My currently project
 - [ ] Developing a deep learning model for plant analysis, identifying growth patterns and optimal conditions
 - [ ] Rofix project: Wiring adjustments for Raspberry Pi, microstepper driver, and stepper motor to enable basic spinning motor functionality
-- [ ] Build a publicly accessible scraper as a API on Apify
 
 ## Future projects
 * Portfolio site:
@@ -71,6 +70,7 @@
 
 * Webdev: projects:
     - [ ] Job listing with AI sorting algoritm to find applicants more easlyier
+    - [ ] Build API webscraper on Apify to get scraped data.
 
 * AI / ML projects:
     - [ ] H&M Kaggle competitiion: User product recomendation on potential future purchase.
