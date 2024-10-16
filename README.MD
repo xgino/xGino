@@ -58,20 +58,19 @@
   
 * 🎓 Rofix Goalie robot: Raspberry Pi 4, stepper motors. [Robotics project](https://github.com/xgino/Rofix)
   
-* 💻 Goal: Flutter app deployment with ML features: image text detection, text-to-speech. [Flutter project](https://github.com/xgino/image_to_speech_flutter)
+* 💻 Goal: -
 
 ## My currently project
 - [ ] Developing a deep learning model for plant analysis, identifying growth patterns and optimal conditions
 - [ ] Rofix project: Wiring adjustments for Raspberry Pi, microstepper driver, and stepper motor to enable basic spinning motor functionality
-- [ ] Build a publicly accessible scraper as a API on Apify
-
 
 ## Future projects
 * Portfolio site:
-    - [ ] Update portfolio website apply all known techniques and skills | [SSL Certificate missing]
+    - [ ] Update portfolio website apply all known techniques and skills
 
 * Webdev: projects:
-    - [ ] QR code Generator with Django site, apply Stripe for B2B
+    - [ ] Job listing with AI sorting algoritm to find applicants more easlyier
+    - [ ] Build API webscraper on Apify to get scraped data.
 
 * AI / ML projects:
     - [ ] H&M Kaggle competitiion: User product recomendation on potential future purchase.
