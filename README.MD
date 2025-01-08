@@ -28,6 +28,8 @@
     <img src="https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white">
 </a>
 
+
+
 </p>
 
 ## Have worked with
@@ -51,12 +53,19 @@
 
 <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white">
 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white">
+
+<img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff">
+
+
 </p>
 
 ## 🌱 Currently Learning
 * 📖 Kaggle: Recommendation model building.
   
-* 🎓 Rofix Goalie robot: Raspberry Pi 4, stepper motors. [Robotics project](https://github.com/xgino/Rofix)
+* 🎓 Goalie robot: Raspberry Pi 4, stepper motors. [Robotics project](https://github.com/xgino/Rofix)
   
 * 💻 Goal: -
 
@@ -66,12 +75,11 @@
 
 ## Future projects
 * Portfolio site:
-    - [ ] Update portfolio website apply all known techniques and skills
+    - [ ] Update my portfolio website with Data science & ML mini projects and skills
 
 * Webdev: projects:
-    - [ ] Job listing with AI sorting algoritm to find applicants more easlyier
-    - [ ] Build API webscraper on Apify to get scraped data.
-
+    - [ ] Job listing website, where we retrive data with API or scraper and NLP/ML matching rec. algoritm
+    - [ ] Saas Landing page Boiler plate template with auth, google signin, redis cache, plotly, stripe, and more 
 * AI / ML projects:
     - [ ] H&M Kaggle competitiion: User product recomendation on potential future purchase.
 
